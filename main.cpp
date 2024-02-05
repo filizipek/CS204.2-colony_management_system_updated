@@ -1,4 +1,3 @@
-//THE2
 //By Filiz Ipek Oktay- 30780
 
 #include <fstream>
